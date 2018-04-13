@@ -1,7 +1,7 @@
 """Settings for tests."""
 from __future__ import unicode_literals
 
-SECRET_KEY = 'Black hole!'
+SECRET_KEY = 'Black hole sucks!'
 
 INSTALLED_APPS = [
     'django.contrib.contenttypes',
