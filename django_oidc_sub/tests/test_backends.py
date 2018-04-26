@@ -4,8 +4,8 @@ from __future__ import unicode_literals
 from django.contrib.auth import get_user_model
 from django.test import TestCase, override_settings
 
-from django_oidc_user.backends import OidcSubBackend
-from django_oidc_user.models import OidcUserSub
+from django_oidc_sub.backends import OidcSubBackend
+from django_oidc_sub.models import OidcUserSub
 
 
 @override_settings(OIDC_OP_AUTHORIZATION_ENDPOINT='http://example/oidc/authorization',

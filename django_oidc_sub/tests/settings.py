@@ -6,7 +6,7 @@ SECRET_KEY = 'Black hole sucks!'
 INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.auth',
-    'django_oidc_user',
+    'django_oidc_sub',
     'mozilla_django_oidc',
 ]
 

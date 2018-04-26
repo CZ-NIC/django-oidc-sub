@@ -1,7 +1,7 @@
-# django-oidc-user
+# django-oidc-sub
 
-[![Build Status](https://travis-ci.org/tpazderka/django-oidc-user.svg?branch=master)](https://travis-ci.org/tpazderka/django-oidc-user)
-[![codecov](https://codecov.io/gh/tpazderka/django-oidc-user/branch/master/graph/badge.svg)](https://codecov.io/gh/tpazderka/django-oidc-user)
+[![Build Status](https://travis-ci.org/tpazderka/django-oidc-sub.svg?branch=master)](https://travis-ci.org/tpazderka/django-oidc-sub)
+[![codecov](https://codecov.io/gh/tpazderka/django-oidc-sub/branch/master/graph/badge.svg)](https://codecov.io/gh/tpazderka/django-oidc-sub)
 
 > Django application for login through OpenID Connect
 
@@ -21,8 +21,8 @@ It also provides an authentication backend that returns appropriate User based o
 
 ## Configuration
 
-1. Add ``django_oidc_user`` and ``mozilla_django_oidc`` to your installed apps.
-2. Add ``django_oidc_user.backends.OidcSubBackend`` to your ``AUTHENTICATION_BACKENDS``.
+1. Add ``django_oidc_sub`` and ``mozilla_django_oidc`` to your installed apps.
+2. Add ``django_oidc_sub.backends.OidcSubBackend`` to your ``AUTHENTICATION_BACKENDS``.
 
 ## Testing
 
