@@ -1,7 +1,7 @@
 # django-oidc-sub
 
-[![Build Status](https://travis-ci.org/tpazderka/django-oidc-sub.svg?branch=master)](https://travis-ci.org/tpazderka/django-oidc-sub)
-[![codecov](https://codecov.io/gh/tpazderka/django-oidc-sub/branch/master/graph/badge.svg)](https://codecov.io/gh/tpazderka/django-oidc-sub)
+[![Build Status](https://travis-ci.org/CZ-NIC/django-oidc-sub.svg?branch=master)](https://travis-ci.org/CZ-NIC/django-oidc-sub)
+[![codecov](https://codecov.io/gh/CZ-NIC/django-oidc-sub/branch/master/graph/badge.svg)](https://codecov.io/gh/CZ-NIC/django-oidc-sub)
 
 > Django application for login through OpenID Connect
 
