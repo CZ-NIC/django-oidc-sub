@@ -12,7 +12,7 @@ setup(name='django-oidc-sub',
       long_description_content_type='text/markdown',
       author='Tomas Pazderka',
       author_email='tomas.pazderka@nic.cz',
-      url='https://github.com/tpazderka/django-oidc-sub',
+      url='https://github.com/CZ-NIC/django-oidc-sub',
       packages=find_packages(),
       install_requires=['Django>=1.11', 'mozilla-django-oidc'],
       extras_require={'quality': ['isort', 'flake8', 'pydocstyle']})
